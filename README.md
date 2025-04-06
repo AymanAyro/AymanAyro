@@ -66,7 +66,6 @@ I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Lan
     <td width="50%">
       <h3 align="center">Digital-Ḍād ض-الرقمية</h3>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/ffa82604-a03f-4b56-836c-4ff379f6e2b2" alt="Digital-Ḍād ض-الرقمية" width="100%" style="max-width: 300px; border-radius: 10px; margin-bottom: 10px;">
         <br>
         <a href="https://github.com/AHR-OCR2024/Arabic-Handwriting-Recognition" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
