@@ -66,7 +66,7 @@ I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Lan
     <td width="50%">
       <h3 align="center">Digital-Ḍād ض-الرقمية</h3>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/ffa82604-a03f-4b56-836c-4ff379f6e2b2" alt="Digital-Ḍād ض-الرقمية" width="300" height="200" style="border-radius: 10px; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/ffa82604-a03f-4b56-836c-4ff379f6e2b2" alt="Digital-Ḍād ض-الرقمية" width="100%" style="max-width: 300px; border-radius: 10px; margin-bottom: 10px;">
         <br>
         <a href="https://github.com/AHR-OCR2024/Arabic-Handwriting-Recognition" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
@@ -77,7 +77,7 @@ I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Lan
     <td width="50%">
       <h3 align="center">Iris Tracking System</h3>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/1a125813-8ac1-4763-8293-75f63ce90215" alt="Iris Tracking Project" width="300" height="200" style="border-radius: 10px; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/1a125813-8ac1-4763-8293-75f63ce90215" alt="Iris Tracking Project" width="100%" style="max-width: 300px; border-radius: 10px; margin-bottom: 10px;">
         <br>
         <a href="https://github.com/AymanAyro/Iris-Tracking" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
@@ -90,7 +90,7 @@ I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Lan
     <td width="50%">
       <h3 align="center">Multilingual News Aggregator</h3>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/d041175d-c409-421e-b7e0-39d20cf8e41e" alt="News Aggregator Project" width="300" height="200" style="border-radius: 10px; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/d041175d-c409-421e-b7e0-39d20cf8e41e" alt="News Aggregator Project" width="100%" style="max-width: 300px; border-radius: 10px; margin-bottom: 10px;">
         <br>
         <a href="https://github.com/AymanAyro" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
@@ -101,7 +101,7 @@ I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Lan
     <td width="50%">
       <h3 align="center">Mental Health Bot</h3>
       <div align="center">
-        <img src="https://github.com/user-attachments/assets/eb5dfe1b-f212-48f5-ad41-ef50ba443ce1" alt="Mental Health Bot Project" width="300" height="200" style="border-radius: 10px; margin-bottom: 10px;">
+        <img src="https://github.com/user-attachments/assets/eb5dfe1b-f212-48f5-ad41-ef50ba443ce1" alt="Mental Health Bot Project" width="100%" style="max-width: 300px; border-radius: 10px; margin-bottom: 10px;">
         <br>
         <a href="https://github.com/AymanAyro/Mental_Health_Bot" target="_blank">
           <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
