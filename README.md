@@ -3,7 +3,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/CV-View%20CV-blue?style=for-the-badge&logo=adobe" alt="CV">
-  <a href="https://ayman-saber.framer.website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-orange?style=for-the-badge&logo=framer" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/ayrosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:aymanayro06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://github.com/AymanAyro" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
@@ -29,20 +28,22 @@ I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Lan
   <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
   <a href="https://github.com/ultralytics/yolov5" target="_blank"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-  <a href="https://langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"></a>
+  <a href="https://langchain.com/" target="_blank"><img src="![langchain](https://github.com/user-attachments/assets/ab406c5e-e3f7-4618-896e-e70a7d1dabc3)
+" alt="LangChain"></a>
   
   #### Data Science & Analytics
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib"></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
   
   #### Cloud & DevOps
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://mlflow.org/" target="_blank"><img src="![61449322](https://github.com/user-attachments/assets/c8429251-0850-41cd-b75d-040d4f71ac05)
+" alt="Mlflow"></a>
   
   #### Languages
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
