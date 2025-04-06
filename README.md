@@ -1,19 +1,116 @@
-<h1 align="center">Hi 👋, I'm Ayman Saber</h1>
-<h3 align="center">A determined AI Engineer & Data Scientist</h3>
+# Ayman Saber
+## AI & Machine Learning Engineer | Data Science Specialist
 
-- 👨‍💻 You can find my Portfolio at [https://ayman-saber.framer.website/](https://ayman-saber.framer.website/)
+<div align="center">
+  <img src="https://img.shields.io/badge/CV-View%20CV-blue?style=for-the-badge&logo=adobe" alt="CV">
+  <a href="https://ayman-saber.framer.website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-orange?style=for-the-badge&logo=framer" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/ayrosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:aymanayro06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/AymanAyro" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+</div>
 
-- 💬 Ask me about **Data Science, Computer Vision, and NLP**
+---
 
-- 📫 How to reach me **aymanayro06@gmail.com**
+### 🚀 About Me
 
-- 📄 Know about my experiences [https://ayman-saber.framer.website/resume](https://ayman-saber.framer.website/resume)
+I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Language Processing, and Data Science. With a strong foundation in Python and machine learning frameworks, I specialize in developing intelligent solutions that solve real-world problems. I'm dedicated to creating innovative AI applications and implementing data-driven strategies.
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Skills & Technologies
+
 <p align="left">
-<a href="https://linkedin.com/in/ayrosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayrosa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ai-mab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ai-mab" height="30" width="40" /></a>
+  <b>AI & ML:</b> TensorFlow, PyTorch, Keras, scikit-learn, OpenCV, YOLO, Transformers<br>
+  <b>Data Science:</b> Pandas, NumPy, Matplotlib, Seaborn, SQL, Power BI<br>
+  <b>Cloud & DevOps:</b> AWS, Azure, Google Cloud, Docker<br>
+  <b>Languages:</b> Python, C++, SQL<br>
+  <b>Tools:</b> Git, Linux, MongoDB, PostgreSQL, MySQL
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 🏆 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Digital-Ḍād ض-الرقمية</h3>
+      <div align="center">
+        <a href="https://github.com/AHR-OCR2024/Arabic-Handwriting-Recognition" target="_blank">
+          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
+        </a>
+      </div>
+      <p>Advanced OCR system for Arabic handwriting recognition using deep learning. Achieved high accuracy through custom CNN architecture and data augmentation techniques.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Iris Tracking System</h3>
+      <div align="center">
+        <a href="https://github.com/AymanAyro/Iris-Tracking" target="_blank">
+          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
+        </a>
+      </div>
+      <p>Real-time iris tracking system using computer vision techniques and deep learning models. Developed for accessibility applications and human-computer interaction.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Multilingual News Aggregator</h3>
+      <div align="center">
+        <a href="https://github.com/AymanAyro" target="_blank">
+          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
+        </a>
+      </div>
+      <p>Intelligent news aggregation system with support for multiple languages. Features automatic translation, summarization, and personalized content recommendations based on user preferences.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Mental Health Bot</h3>
+      <div align="center">
+        <a href="https://github.com/AymanAyro/Mental_Health_Bot" target="_blank">
+          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
+        </a>
+      </div>
+      <p>Conversational AI chatbot designed to provide mental health support and resources. Utilizes NLP and sentiment analysis to offer personalized responses.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📚 Research & Publications
+
+- [**Published Research Paper**](https://ijt.journals.ekb.eg/article_367178.html) - AI-based research in toxicology journals
+- Specialized in applying machine learning techniques to solve complex problems in various domains
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AymanAyro&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAyro&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
+</div>
+
+---
+
+### 🔗 Additional Projects
+
+- [**ASL Recognition**](https://github.com/AymanAyro/ASL) - Sign language recognition system using computer vision
+- [**Car Price Prediction**](https://github.com/AymanAyro/Car-Price-Detection) - ML model for predicting car prices based on various features
+- [**NLP Article Processor**](https://github.com/AymanAyro/article-processor) - Intelligent system for text analysis and summarization
+
+---
+
+### 📬 Get In Touch
+
+<div align="center">
+  <a href="https://ayman-saber.framer.website/" target="_blank"><img src="https://img.shields.io/badge/Website-Visit%20My%20Portfolio-4285F4?style=for-the-badge" alt="Website"></a>
+  <a href="mailto:aymanayro06@gmail.com"><img src="https://img.shields.io/badge/Email-aymanayro06%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://linkedin.com/in/ayrosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="tel:+201100692454"><img src="https://img.shields.io/badge/Phone-Call%20Me-00C300?style=for-the-badge&logo=whatsapp" alt="Phone"></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AymanAyro&style=flat-square&color=blue" alt="Profile Views">
+</div>
