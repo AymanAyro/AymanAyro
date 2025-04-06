@@ -2,7 +2,6 @@
 ## AI & Machine Learning Engineer | Data Science Specialist
 
 <div align="center">
-  <img src="https://img.shields.io/badge/CV-View%20CV-blue?style=for-the-badge&logo=adobe" alt="CV">
   <a href="https://linkedin.com/in/ayrosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:aymanayro06@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://github.com/AymanAyro" target="_blank"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
