@@ -83,15 +83,6 @@ I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Lan
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AymanAyro&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanAyro&layout=compact&theme=tokyonight" alt="Top Languages" height="170">
-</div>
-
----
-
 ### 🔗 Additional Projects
 
 - [**ASL Recognition**](https://github.com/AymanAyro/ASL) - Sign language recognition system using computer vision
@@ -106,7 +97,7 @@ I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Lan
   <a href="https://ayman-saber.framer.website/" target="_blank"><img src="https://img.shields.io/badge/Website-Visit%20My%20Portfolio-4285F4?style=for-the-badge" alt="Website"></a>
   <a href="mailto:aymanayro06@gmail.com"><img src="https://img.shields.io/badge/Email-aymanayro06%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://linkedin.com/in/ayrosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="tel:+201100692454"><img src="https://img.shields.io/badge/Phone-Call%20Me-00C300?style=for-the-badge&logo=whatsapp" alt="Phone"></a>
+  <a href="tel:+201100692454"><img src="https://img.shields.io/badge/Phone-Text%20Me-00C300?style=for-the-badge&logo=whatsapp" alt="Phone"></a>
 </div>
 
 ---
