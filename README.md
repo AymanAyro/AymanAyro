@@ -28,8 +28,7 @@ I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Lan
   <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
   <a href="https://github.com/ultralytics/yolov5" target="_blank"><img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"></a>
   <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"></a>
-  <a href="https://langchain.com/" target="_blank"><img src="![langchain](https://github.com/user-attachments/assets/ab406c5e-e3f7-4618-896e-e70a7d1dabc3)
-" alt="LangChain"></a>
+  <a href="https://langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"></a>
   
   #### Data Science & Analytics
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
@@ -42,7 +41,8 @@ I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Lan
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"></a>
   <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-  <a href="https://mlflow.org/" target="_blank"><img src="https://github.com/user-attachments/assets/c8429251-0850-41cd-b75d-040d4f71ac05" alt="Mlflow"></a>
+  <a href="https://mlflow.org/" target="_blank"><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"></a>
+  <a href="https://langsmith.com/" target="_blank"><img src="https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"></a>
   
   #### Languages
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
