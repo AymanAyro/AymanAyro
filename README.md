@@ -134,9 +134,3 @@ I'm a passionate AI & ML Engineer with expertise in Computer Vision, Natural Lan
   <a href="tel:+201100692454"><img src="https://img.shields.io/badge/+201100692454-00C300?style=for-the-badge&logo=whatsapp" alt="Phone"></a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AymanAyro&style=flat-square&color=blue" alt="Profile Views">
-  <p>Last Updated: 2025-04-06</p>
-</div>
